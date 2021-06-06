@@ -1,2 +1,3 @@
 La intención de este repositorio es poder realizar, en una primera instancia, un analisis exploratorio de los datos abiertos de PROPERARTI.
 Seguidamente se visualizaran los datos utilizando los paquetes Seaborn y Matplotlip.
+Finalmente se trabajará en la confección de mapas para geolocalizar los datos.
